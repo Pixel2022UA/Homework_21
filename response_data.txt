@@ -1,0 +1,12 @@
+URL: https://mylibrary-e460551407b2.herokuapp.com/api/authors/2/
+Response:
+{"id":2,"name":"Test Author"}
+==================================================
+URL: https://mylibrary-e460551407b2.herokuapp.com/api/authors/1/
+Response:
+{"id":1,"name":"Mike"}
+==================================================
+URL: https://mylibrary-e460551407b2.herokuapp.com/api/authors/3/
+Response:
+{"id":3,"name":"Updated Author"}
+==================================================
